@@ -8,7 +8,7 @@ public class Adiosmundo {
 		
 		System.out.println("¡Adios mundo!");
 		
-		
+		System.out.println("hola");		
 		
 	}
 
